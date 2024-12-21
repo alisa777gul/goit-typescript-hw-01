@@ -1,2 +1,3 @@
-const variable: string | number = 'House';
-const switcher: 'enable' | 'disable'='disable';
+let variable: string | number = 'House';
+variable = 4;
+const switcher: 'enable' | 'disable' = 'disable';

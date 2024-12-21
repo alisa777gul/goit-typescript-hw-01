@@ -5,3 +5,4 @@ const empty:null = null;
 const callback: (a: number) => number = (a: number): number => { 
     return 100 + a; 
 };
+
